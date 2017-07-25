@@ -1,0 +1,7 @@
+D:\源码\C#\newQQ_Server\bin\Debug\newQQ_Server.exe
+D:\源码\C#\newQQ_Server\bin\Debug\newQQ_Server.pdb
+D:\源码\C#\newQQ_Server\bin\Debug\MySql.Data.dll
+D:\源码\C#\newQQ_Server\obj\x86\Debug\newQQ_Server.exe
+D:\源码\C#\newQQ_Server\obj\x86\Debug\newQQ_Server.pdb
+C:\Users\YU\Desktop\windows课程设计\2014051789-潘源宇-课程设计\源码\newQQ_Server\obj\x86\Debug\newQQ_Server.exe
+C:\Users\YU\Desktop\windows课程设计\2014051789-潘源宇-课程设计\源码\newQQ_Server\obj\x86\Debug\newQQ_Server.pdb
