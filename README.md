@@ -1,4 +1,4 @@
-# 仿腾讯QQ的IM软件
+# 仿QQ的IM软件
 
 ./newQQ/MessageSend.cs ：UDP报文发送类，服务端IP需要在此处指定。
 ./newQQ_Server/MessageSend.cs ：UDP报文发送类，服务端IP需要在此处指定。
